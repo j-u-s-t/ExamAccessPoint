@@ -1,0 +1,40 @@
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\obj\Debug\Exam Access Point.csprojAssemblyReference.cache
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.splashScreen.resources
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.login.resources
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.Properties.Resources.resources
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.register_student.resources
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\obj\Debug\Exam Access Point.csproj.GenerateResource.cache
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\obj\Debug\Exam Access Point.csproj.CoreCompileInputs.cache
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\bin\Debug\Exam Access Point.exe.config
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\bin\Debug\Exam Access Point.exe
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\bin\Debug\Exam Access Point.pdb
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\obj\Debug\Exam Access Point.csproj.CopyComplete
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\obj\Debug\Exam Access Point.exe
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\obj\Debug\Exam Access Point.pdb
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\bin\Debug\WebCam_Capture.dll
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.UPDATE_STUDENTS.resources
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.EXAM.resources
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\bin\Debug\Guna.UI.dll
+C:\Users\__JUST__\3D Objects\Exam Access Point\Exam Access Point\bin\Debug\Guna.UI2.dll
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam Access Point.csprojAssemblyReference.cache
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.EXAM.resources
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.splashScreen.resources
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.login.resources
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.Properties.Resources.resources
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.register_student.resources
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.UPDATE_STUDENTS.resources
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam Access Point.csproj.GenerateResource.cache
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam Access Point.csproj.CoreCompileInputs.cache
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam Access Point.exe
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam Access Point.pdb
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\bin\Debug\Exam Access Point.exe.config
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\bin\Debug\Exam Access Point.exe
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\bin\Debug\Exam Access Point.pdb
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam Access Point.csproj.CopyComplete
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.LOG_IN.resources
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.DASHBOARD.resources
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.STUDENTS.resources
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.VIEW_STUDENTS.resources
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.COURSES.resources
+C:\Users\__JUST__\source\repos\Exam Access Point\Exam Access Point\obj\Debug\Exam_Access_Point.TIMETABLE.resources
